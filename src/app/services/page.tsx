@@ -134,6 +134,7 @@ const Service: React.FC = () => {
               <img
                 src="https://bg-so-1.zippyimage.com/2024/10/17/293fb7f429e35cdc1514718a2a7600a6.md.png"
                 className="rounded-lg h-[400px] h-[400px]"
+                alt="card"
               />
             </div>
           </div>
@@ -143,6 +144,7 @@ const Service: React.FC = () => {
               <img
                 src="https://bg-so-1.zippyimage.com/2024/10/17/293fb7f429e35cdc1514718a2a7600a6.md.png"
                 className="rounded-lg h-[400px] h-[400px]"
+                alt="card"
               />
             </div>
             <div className="flex flex-col gap-8 w-1/2">
@@ -176,6 +178,7 @@ const Service: React.FC = () => {
               <img
                 src="https://bg-so-1.zippyimage.com/2024/10/17/293fb7f429e35cdc1514718a2a7600a6.md.png"
                 className="rounded-lg h-[400px] h-[400px]"
+                alt="card"
               />
             </div>
           </div>

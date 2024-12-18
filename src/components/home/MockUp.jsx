@@ -6,7 +6,7 @@ export default function MockUp() {
       <div className="w-1/3">
         <img
         src={LAPTOP_MOCKUP}
-        className="h-[400px] animate-slowBounce"
+        className="h-[400px] animate-slowBounce" alt="mockup"
       />
       </div>
       

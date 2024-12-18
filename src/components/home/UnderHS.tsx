@@ -4,7 +4,7 @@ import React from 'react'
 const UnderHS = () => {
   return (
     <div className='w-full'>
-      <img src={HAND_IMAGE} className='w-full h-[650px]'/>
+      <img src={HAND_IMAGE} alt='hand' className='w-full h-[650px]'/>
     </div>
   )
 }
